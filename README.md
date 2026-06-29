@@ -1,1 +1,1 @@
-# maclink-privacy
+# omzulink-privacy
